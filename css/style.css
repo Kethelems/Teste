@@ -544,10 +544,4 @@ footer p {
     }
 }
 
-@font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap') format('woff2');
-}
+
